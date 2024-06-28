@@ -1,4 +1,0 @@
-void initPORTA_DIR (void)
-{
-	 DDRA=40;
-}
